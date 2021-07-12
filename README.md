@@ -1,5 +1,7 @@
-# Express Calculator 
-My first Web App made with Node.js + Express.js. It is a very basic calculator which performs only sums, but by a backend script. My first step towards back-end development.<br>
+# Express Calculator 🧮
+
+My first Web App made with Node.js + Express.js. It is a very basic calculator which performs only addition and basic BMI calculation with a backend script. My first step towards back-end development.
+
 # How to use this? 🤔
 
 1. Clone this repository in your local environment by the following command:<br>
@@ -19,6 +21,10 @@ This app uses Express.js and body-parser for working. You can install these by e
 
 # Screenshots 📸
 
-![Calculator with input](https://user-images.githubusercontent.com/70312106/125290811-534d8980-e33e-11eb-8c0a-e4018af77d7e.png)
+![Addition Input](https://user-images.githubusercontent.com/70312106/125315900-353f5380-e355-11eb-84d8-caee9d9903f4.png)
 
-![Calculator Output](https://user-images.githubusercontent.com/70312106/125290882-682a1d00-e33e-11eb-8a67-64fc1cd69662.png)
+![Addition Output](https://user-images.githubusercontent.com/70312106/125316027-5738d600-e355-11eb-81f2-4dc1d4885225.png)
+
+![BMI Input](https://user-images.githubusercontent.com/70312106/125316358-ae3eab00-e355-11eb-802c-1f7fe7fe6620.png)
+
+![BMI Output](https://user-images.githubusercontent.com/70312106/125316398-b860a980-e355-11eb-9c02-b417f7eaf368.png)
