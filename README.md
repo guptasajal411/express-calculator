@@ -22,9 +22,9 @@ This app uses Express.js and body-parser for working. You can install these by e
 # Screenshots 📸
 
 ![Addition Input](https://user-images.githubusercontent.com/70312106/125315900-353f5380-e355-11eb-84d8-caee9d9903f4.png)
-
+-------
 ![Addition Output](https://user-images.githubusercontent.com/70312106/125316027-5738d600-e355-11eb-81f2-4dc1d4885225.png)
-
+-------
 ![BMI Input](https://user-images.githubusercontent.com/70312106/125316358-ae3eab00-e355-11eb-802c-1f7fe7fe6620.png)
-
+-------
 ![BMI Output](https://user-images.githubusercontent.com/70312106/125316398-b860a980-e355-11eb-9c02-b417f7eaf368.png)
